@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Attributes>
+    <name>Acquisition_Mode</name>
+    <name>Acquisition_Station_ID</name>
+    <name>Azimuth_Geometric_Resolution</name>
+    <name>Azimuth_Multilooking_Weighting_Coefficient</name>
+    <name>Azimuth_Focusing_Weighting_Function</name>
+    <name>Azimuth_Processing_Number_of_Looks</name>
+    <name>Bits_per_Sample</name>
+    <name>Delivery_Mode</name>
+    <name>Downlink_Start_UTC</name>
+    <name>Downlink_Stop_UTC</name>
+    <name>Ground_Range_Coverage</name>
+    <name>Ground_Range_Geometric_Resolution</name>
+    <name>Image_Layers</name>
+    <name>Look_Side</name>
+    <name>Multi-Beam_ID</name>
+    <name>Orbit_Direction</name>
+    <name>Orbit_Number</name>
+    <name>Processing_Centre</name>
+    <name>Product_Filename</name>
+    <name>Product_Generation_UTC</name>
+    
+    <name>Product_Type</name>
+    <name>Projection_ID</name>
+    <name>Radar_Frequency</name>
+    <name>Radar_Wavelength</name>
+    <name>Range_Focusing_Weighting_Function</name>
+    <name>Range_Multilooking_Weighting_Coefficient</name>
+    <name>Range_Processing_Number_of_Looks</name>
+    <name>Reference_Incidence_Angle</name>
+    <name>Reference_Slant_Range</name>
+    <name>Reference_Slant_Range_Exponent</name>
+    <name>Sample_Format</name>
+    <name>Satellite_Height</name>
+    <name>Satellite_ID</name>
+    <name>Scene_Sensing_Start_UTC</name>
+    <name>Scene_Sensing_Stop_UTC</name>
+    
+    <name>S01_Azimuth_Instrument_Geometric_Resolution</name>
+    <name>S01_Beam_ID</name>
+    <name>S01_Beam_Off-Nadir_Angle</name>
+    <name>S01_Calibration_Constant</name>
+    <name>S01_PRF</name>
+    <name>S01_Ground_Range_Instrument_Geometric_Resolution</name>
+    <name>S01_Polarisation</name>
+
+    <name>S01_SBI_Far_Incidence_Angle</name>
+    <name>S01_SBI_Far_Look_Angle</name>
+    <name>S01_SBI_Line_Spacing</name>
+    <name>S01_SBI_Near_Incidence_Angle</name>
+    <name>S01_SBI_Column_Spacing</name>
+      
+    
+</Attributes>
